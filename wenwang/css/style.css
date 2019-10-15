@@ -1,0 +1,81 @@
+html {
+	font-size: 16px;
+}
+body {
+	background: #000;
+	color: #0F0;
+	text-align: center;
+	line-height: none;
+	font-size: 18px;
+} 
+.juzhong {margin:5px auto; width:1800px;
+ height:1000px; border:1px solid #000000;
+}  
+
+#tou，#jianjie{
+	width:1880px; height:1080px; 
+}
+#mapworld,#cj,#zjyz,#zuijiu {
+	float:left;
+}
+#wenwangduoguantiao,#cj2,#psxsw,#zuinianzhang{
+	
+	float:right;
+}
+.titou{
+	text-align: center;
+	font: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 26px;
+	color:#fff;
+}
+#china{
+	margin-top:650px;
+	margin-bottom:20px;
+	
+}
+
+#chinared{
+	text-align: center;
+	font: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 30px;
+	color: #F00;
+	margin-bottom:0px;
+	
+}
+
+#mama {
+	margin-top: 600px;
+	margin-bottom: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	color: #FC0;
+	
+}
+#bet{
+	margin-bottom:20px;
+	float:left;
+}
+#oo{
+	margin-bottom:20px;
+	float:right;
+}
+#fed {
+	margin-top:700px;
+	margin-bottom:20px;
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFF;
+}
+
+
+#finalz {
+	font-size: 36px;
+	font-weight: bold;
+	color:#090;
+}
+#bye {
+	margin-top:100px;
+	color: #F0F;
+}
